@@ -2,5 +2,5 @@
 	path = pontoon/intro
 	url = git://github.com/ngson2000/pontoon-intro.git
 [submodule "pontoon/i18n-sample"]
-	path = pontoon/intro
+	path = pontoon/i18n-sample
 	url = git://github.com/ngson2000/i18n-sample.git
