@@ -1,3 +1,6 @@
 [submodule "pontoon/intro"]
 	path = pontoon/intro
-	url = git://github.com/mozilla/pontoon-intro
+	url = git://github.com/ngson2000/pontoon-intro.git
+[submodule "pontoon/i18n-sample"]
+	path = pontoon/intro
+	url = git://github.com/ngson2000/i18n-sample.git
